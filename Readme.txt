@@ -12,7 +12,7 @@ Multi-label Emotion Classification
 Dataset
 ========
 
-Dataset Link: Dataset is be Provide in the Data Folder (RawData_EmotionPrediction_Ahmad_4-11-22.csv)
+Dataset Link: Dataset is be Provide in the Data Folder (RawData_EmotionPrediction_4-11-22.csv)
 The orignal dataset contained 11 Emotion classes and Neutral (no emotion)
 
 Dataset Contains more than 6000 Instances while for the fine-tunning purpose we have selected only a subset on 100 instances
